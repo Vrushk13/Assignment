@@ -1,0 +1,20 @@
+﻿S.No,Module,Req ID,Test Scenarios,No Of Test Cases
+1,VE3,3.1.1,Verify that the Ve3.global homepage loads successfully,2
+2,VE3,3.1.1,Verify that All elements are displayed on the page.,1
+3,VE3,3.1.1,Verify that VE3.global Newsletter submitting successfully,5
+4,VE3,3.1.2,Verify  that VE3.global Newsletter submitting with Invalid Data.,1
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

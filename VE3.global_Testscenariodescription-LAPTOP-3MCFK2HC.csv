@@ -1,0 +1,17 @@
+﻿Project Name,VE3.global,,
+Reference Document,NA,,
+Created by,Vrushali Kabadi,,
+Date of creation,29/09.2023,,
+Date of review,,,
+,,,
+Test scenario ID,Req Ref  Doc,Test Scenario Description ,No. of Test Cases
+TS_MI_01,Section 3.1.1,Verify that the Ve3.global homepage loads successfully.,2
+TS_MI_02,Section 3.1.2,Verify that All elements are displayed on the page.,1
+TS_MI_03,Section 3.1.3,"Verify that VE3.global Newsletter submitting successfully.
+Required details are
+1.Name
+2.Email-ID",5
+TS_MI_04,Section 3.1.4,"Verify  that VE3.global Newsletter submitting with Invalid Data.
+Required details are
+1.Name
+2.Email-ID",1
